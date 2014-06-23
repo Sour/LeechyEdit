@@ -1,0 +1,17 @@
+[
+{
+"modid":        "LeechyEdit",
+"name":         "Leechy Edits",
+"description":  "",
+"version":      "1.0",
+"credits":      "Created by Leechy",
+"logoFile":     "",
+"mcversion":    "1.7.2",
+"url":          "http://www.leechy.info/",
+"updateUrl":    "",
+"authors":      "Leechy",
+"parent":       "",
+"screenshots":  [],
+"dependencies": []
+}
+]
